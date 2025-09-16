@@ -1,0 +1,17 @@
+.todo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    flex: 1 1 22%;
+}
+
+.testo{
+    background-color: rgba(116, 116, 116, 0.123);
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
